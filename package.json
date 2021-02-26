@@ -3,6 +3,7 @@
   "version": "0.5.0",
   "private": true,
   "dependencies": {
+    "encoding": "^0.1.13",
     "netlify": "^6.1.9",
     "serve": "^11.3.2"
   },
